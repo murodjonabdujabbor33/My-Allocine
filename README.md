@@ -11,9 +11,6 @@ The uses of SQL include modifying database table and index structures; adding, u
 
 ## Usage
 The uses of SQL include modifying database table and index structures; adding, updating and deleting rows of data; and retrieving subsets of information from within a database for transaction processing and analytics applications. Queries and other SQL operations take the form of commands written as statements -- commonly used SQL statements include select, add, insert, update, delete, create, alter and truncate.
-```
-./my_project argument1 argument2
-```
 
 ### The Core Team
 Murodjon Abdujabbor abdujabb_m
